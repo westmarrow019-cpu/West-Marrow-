@@ -1,0 +1,103 @@
+[11/24, 07:54] wh3st: . Introduction to Information Technology (IT)
+
+· Definition: IT involves the study, design, development, and management of computer-based information systems.
+· Business Context: IT automates processes, aids decision-making, connects businesses with customers, and boosts productivity.
+· Academic Context: IT specialists select and manage hardware/software, maintain networks, ensure security, and manage an organization's technology lifecycle.
+
+2. Computer Fundamentals
+
+· Definition: An electronic device programmed to accept input, process it, and produce output.
+· Key Hardware Components:
+  · CPU: The "brain" that executes instructions.
+  · Memory (RAM): Fast, temporary storage for data and programs in use.
+  · Mass Storage (HDD/SSD): Slower, permanent storage for data and programs.
+  · Input/Output Devices: Keyboard, mouse (input); monitor, printer (output).
+· Computer Classification (by size & power):
+  · Personal Computer: Single-user, microprocessor-based.
+  · Workstation: Powerful single-user computer for specialized tasks (e.g., CAD).
+  · Minicomputer: Supports up to hundreds of users simultaneously.
+  · Mainframe: Supports thousands of users; excels at running many programs concurrently.
+  · Supercomputer: Extremely fast; designed for intense calculations (e.g., weather forecasting).
+
+3. Data Representation & Digital Concepts
+
+· Data vs. Information: Data are raw facts. Information is data that has been processed and given meaning.
+· Bit & Byte: A bit is the smallest unit (0 or 1). A byte is 8 bits and represents a single character.
+· Number Systems:
+  · Binary: Base-2 system (0,1). The native language of computers.
+  · Hexadecimal: Base-16 system (0-9, A-F). A compact way to represent binary.
+  · Octal: Base-8 system (0-7).
+· Analog vs. Digital Signals:
+  · Analog: Continuous wave, represents real-world data (e.g., human voice). Prone to noise.
+  · Digital: Discrete on/off signals (0s and 1s). More reliable, easier to store, and error-resistant.
+
+4. Data Organization & Storage
+
+· Data Files: Store data for applications, not instructions.
+· Serial/Sequential Files: Records stored in the order they were created. Simple to create but slow to search (like a cassette tape).
+· Random Access Files: Records have a fixed length, allowing direct access to any record without reading all previous ones. Fast but can waste storage space.
+· Storage Terms:
+  · Track: A circular path on a disk.
+  · Sector: A subdivision of a track.
+  · Cluster: A group of sectors managed by the operating system.
+
+5. Software
+
+· System Software: Manages hardware and provides a platform for running application software.
+  · Operating System (OS): Manages resources (CPU, memory), tasks, files, and provides a user interface. Key functions include resource, task, and file management.
+  · Utility Software: Tools for system maintenance (e.g., antivirus, backup, disk defragmentation, file compression).
+· Application Software: Programs for end-users to perform specific tasks (e.g., word processors, spreadsheets).
+
+6. Programming & Compilation
+
+· Compiler: A program that translates source code (written by humans) into machine-readable object code.
+· Logical Operators:
+  · AND (&&): True only if both conditions are true.
+  · OR (||): True if at least one condition is true.
+  · NOT (!): Reverses the logical value of a condition.
+
+7. The Internet & World Wide Web
+
+· Internet: The global physical network of connected computers.
+· World Wide Web (WWW): A service on the Internet consisting of interlinked hypertext documents (web pages) accessed via browsers.
+· Key Components:
+  · Web Browsers: Software to access and view web pages (e.g., Chrome, Firefox).
+  · Servers: Computers that provide services (e.g., Web, Email, FTP servers).
+· Hypermedia/Hypertext: Non-linear information linking text, graphics, audio, and video via hyperlinks.
+
+8. Key Application Software
+
+· Word Processing:
+  · Used for creating, editing, and formatting text documents.
+  · Key features: insert/delete, copy/paste, spell check, fonts, headers/footers.
+· Spreadsheets:
+  · A grid of rows and columns for managing and calculating data.
+  · Key elements: Cell (intersection of row/column), Formula (calculation), Function (predefined formula like SUM).
+  · Cell Reference Types:
+    · Relative: Adjusts when copied (e.g., A1).
+    · Absolute: Remains fixed when copied (e.g., $A$1).
+    · Mixed: Combination (e.g., A$1 or $A1).
+  · Charts: Visual representations of data (Bar, Line, Pie, Scatter).
+
+9. Computer Networks
+
+· Definition: A collection of interconnected computers and devices that can communicate and share resources.
+· Purposes: Facilitate communication, share hardware, files, data, and software.
+· Types of Networks:
+  · LAN (Local Area Network): Covers a small geographic area (e.g., a building).
+  · WAN (Wide Area Network): Spans a large geographic area (e.g., a country), often connecting multiple LANs.
+  · Internet: A global network of networks.
+  · Intranet: A private network within an organization that uses Internet technologies.
+  · VPN (Virtual Private Network): A secure connection over a public network (like the Internet) to a private network.
+[11/24, 07:54] wh3st: The Role of IT in Society
+
+Information Technology has become the backbone of modern society, fundamentally transforming how we live, work, and interact. Its key roles include:
+
+1. Communication Revolution: IT has made instant global communication possible through email, social media, and video conferencing, breaking down geographical barriers.
+2. Economic Driver: It powers e-commerce, enables new business models (like the gig economy), and automates business processes for greater efficiency through tools like spreadsheets and database management systems.
+3. Access to Information and Education: The internet provides unprecedented access to information. E-learning platforms and digital classrooms make education more flexible and accessible than ever before.
+4. Advancements in Healthcare: IT enables telemedicine, electronic health records, and powers advanced medical research and diagnostic equipment.
+5. E-Governance: It improves citizen access to government services, increases transparency, and facilitates civic engagement through online platforms.
+6. Entertainment and Leisure: IT has reshaped entertainment through on-demand streaming services, online gaming, and personalized content.
+
+In conclusion, while IT presents challenges like the digital divide and security concerns, its role as a driver of efficiency, connectivity, and innovation is indispensable in today's world.
